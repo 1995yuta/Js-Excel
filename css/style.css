@@ -1,0 +1,9 @@
+@charset "utf-8";
+
+.wrapper {
+    width: 90%;
+    margin: 0 auto;
+}
+.wrapper .workSpace {
+    width: 70%;
+}
